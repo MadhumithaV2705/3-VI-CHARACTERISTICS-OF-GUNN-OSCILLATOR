@@ -59,34 +59,14 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 ![WhatsApp Image 2025-11-15 at 20 40 50_e0770e2f](https://github.com/user-attachments/assets/63822792-3725-4f37-85dc-97d6d3a0d625)
 
-
-Depth of modulation of PIN diode (sample readings & calc.)
-
-Gunn bias used for modulation: 8 V (steady carrier).
-
-Micrometer / attenuator position (carrier at reference level):
-
-Top of square wave: micrometer = 4.5 mm → VSWR meter = -24 dB
-
-Bottom of square wave: micrometer = 7.0 mm → VSWR meter = -30 dB
-
-Difference ΔdB = 6 dB.
-
-Convert ΔdB to amplitude ratio:
-
-<img width="813" height="188" alt="image" src="https://github.com/user-attachments/assets/94971996-d12b-457d-bbb3-b38feabb4f9a" />
-
-Depth of modulation ≈ 50%
-
 **C.Analysis of Results:**
 
-1.The I–V curve shows a rise in current up to a peak (~3 V, 28 mA), then a fall to a valley (~7 V, 12 mA) and a subsequent rise — this is the classic negative differential resistance (NDR) region of a Gunn diode.
-2.The device should be biased in the mid-NDR region (between peak and valley) for stable microwave oscillation.
-3.From PIN modulator measurements, a Δ of 6 dB between high/low detector readings gives an amplitude ratio ≈ 2, corresponding to ~50% modulation depth, indicating effective amplitude modulation by the PIN modulator.
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
 **D.Conclusions:**
 
-The Gunn diode exhibits clear negative differential resistance with a peak around 3 V and a valley around 7 V, confirming conditions required for Gunn oscillation. The PIN diode modulator achieved a modulation depth of ≈ 50%, showing good amplitude modulation of the microwave carrier.
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
+
 
 **Precautions:**
 
