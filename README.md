@@ -55,20 +55,10 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 **B.Observation:**
 
-| S. N. | Gunn Bias Voltage (V) | Gunn Diode Current (mA) | Observation        |
-| :---: | :-------------------: | :---------------------: | :----------------- |
-|   1   |          0.0          |           0.5           |                    |
-|   2   |          1.0          |           5.2           |                    |
-|   3   |          2.0          |           18.6          |                    |
-|   4   |          3.0          |           28.0          | **Peak Current**   |
-|   5   |          4.0          |           22.4          |                    |
-|   6   |          5.0          |           17.0          |                    |
-|   7   |          6.0          |           14.2          |                    |
-|   8   |          7.0          |           12.0          | **Valley Current** |
-|   9   |          8.0          |           13.5          |                    |
-|   10  |          9.0          |           17.8          |                    |
-|   11  |          10.0         |           23.0          |                    |
-|   12  |          11.0         |           30.2          |                    |
+![WhatsApp Image 2025-11-15 at 20 40 50_48aabd60](https://github.com/user-attachments/assets/7cb29a23-702e-47e4-a556-443e2e7500b4)
+
+![WhatsApp Image 2025-11-15 at 20 40 50_e0770e2f](https://github.com/user-attachments/assets/63822792-3725-4f37-85dc-97d6d3a0d625)
+
 
 Depth of modulation of PIN diode (sample readings & calc.)
 
@@ -106,4 +96,4 @@ The Gunn diode exhibits clear negative differential resistance with a peak aroun
 
 **Result:**
 
-The Gunn oscillator demonstrates the expected NDR behavior (peak ≈ 3 V, valley ≈ 7 V) and the PIN modulator produced a modulation depth of ≈ 50%.
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
